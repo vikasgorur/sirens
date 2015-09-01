@@ -5,6 +5,12 @@ __pycache__/
 # C extensions
 *.so
 
+# MP3 originals
+*.mp3
+
+# IPython
+.ipynb_checkpoints
+
 # Distribution / packaging
 .Python
 env/
